@@ -1,7 +1,7 @@
 ## Bonjour 👋  
 
 ### A propos
-* **Pierre**, 20 ans 🙋‍♂️
+* **Pierre**, 21 ans 🙋‍♂️
 * Etudiant en informatique 💻  
 * Passionné de développement web et cybersécurité 🤓
 
