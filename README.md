@@ -2,7 +2,7 @@
 
 ### A propos
 * **Pierre**, 21 ans 🙋‍♂️
-* Etudiant en informatique 💻  
+* Développeur Web Junior 💻  
 * Passionné de développement web et cybersécurité 🤓
 
 ### Technologies connues/en apprentissage
