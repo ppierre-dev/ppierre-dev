@@ -1,7 +1,7 @@
 ## Hello 👋  
 
 ### About me
-* **Pierre**, 21 years old 🙋‍♂️
+* **Pierre**, 22 years old 🙋‍♂️
 * Junior Web Developer 💻  
 * Passionate about web development and cybersecurity 🤓
 
